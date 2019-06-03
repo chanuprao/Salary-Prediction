@@ -1,2 +1,2 @@
 # Salary-Prediction
-Predicting Salary using regression technique
+Predicting Salary using regression techniques.
